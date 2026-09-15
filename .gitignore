@@ -1,0 +1,17 @@
+# Documento de trabajo interno: cobertura real, asignaturas sin encaje y criterio
+# editorial. NO se publica. Vive solo en el disco del equipo.
+CLAUDE.md
+
+# Excel fuente del mapeo: contiene el analisis completo, incluidos los vacios.
+*.xlsx
+~$*.xlsx
+
+# Build
+artifact.html
+
+*.bak
+Thumbs.db
+.DS_Store
+
+# Documentacion de la plantilla, no de este deck.
+INSTRUCCIONES.md
